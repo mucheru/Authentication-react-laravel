@@ -69,3 +69,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Authentication-react-laravel
+
+
+Sign up interface:
+![image](https://user-images.githubusercontent.com/13763343/236828931-3e14d4ab-25e3-4edf-8742-d0eeeb42c52c.png)
+Login interface:
+![image](https://user-images.githubusercontent.com/13763343/236829114-91ce5d81-bfaa-43e4-be05-8c56a05cf442.png)
+dashboard interface:
+![image](https://user-images.githubusercontent.com/13763343/236829601-8aad736f-fe9c-45a6-a63d-acf8b98179b8.png)
+
+
+
